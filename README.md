@@ -14,7 +14,7 @@
 - JavaScript
 
 
-## Screenshot
+## Screenshots
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FSimon_Game%20-%201.png?alt=media&token=9b56bd92-acd0-4ea2-aa1f-78ade5e38454)
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FSimon%20Game%20-%202.png?alt=media&token=e0fb8e7f-ab32-4e2d-9ecb-f669556db77e)
